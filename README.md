@@ -101,5 +101,3 @@ By the end of this project, you’ll have a fully working sentiment classifier a
 * Datasets and sample movie review datasets (e.g. IMDb)
 
 ---
-
-Feel free to tweak the visuals, add sample outputs or graphs, or include a “How to contribute” section later. Would you like me to craft sample metric plots or a contribution guide section for this README too?
